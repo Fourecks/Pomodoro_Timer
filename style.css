@@ -8,7 +8,7 @@ body {
   background-color: transparent;
 }
 .container {
-  background-color: #1b1b1b;
+  background-color: transparent;
   width: min(90%, 500px);
   position: absolute;
   transform: translate(-50%, -50%);
