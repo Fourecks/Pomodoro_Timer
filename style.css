@@ -37,6 +37,21 @@ button {
   background-color: #cb202d;
   color: #ffffff;
 }
+.custom-time {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  margin-top: 1.5em;
+}
+.custom-time input {
+  width: 80px;
+  padding: 0.5em;
+  border-radius: 0.4em;
+  border: none;
+  outline: none;
+  text-align: center;
+  font-size: 1em;
+}
 .time-btn-container {
   display: flex;
   flex-direction: column;
@@ -62,8 +77,6 @@ button {
 }
 #btn-reset {
   background-color: transparent;
-  border: none;
-  outline: none;
   color: #ffffff;
   font-size: 2em;
 }
