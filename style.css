@@ -34,8 +34,8 @@ button {
   color: #a9a7a7;
 }
 .btn-focus {
-  background-color: #cb202d;
-  color: #ffffff;
+  background-color: #FFFFFF;
+  color: #000000;
 }
 .time-btn-container {
   display: flex;
